@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>CTU FITNESS</title>
+    <title>P its Pitness</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -33,7 +33,7 @@
 
     <header class="fixed-top bg-light ">
         <nav class="navbar navbar-expand-md   ">
-            <a class="navbar-brand" href="#">CTU FITNESS</a>
+            <a class="navbar-brand" href="#">P its Pitness</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
                 <span class="text-dark">X</span>
 
@@ -42,7 +42,7 @@
             <div class="collapse navbar-collapse" id="collapsibleNavbar">
                 <ul class="navbar-nav m-auto">
                     <li class="nav-item  ">
-                        <a class="nav-link active" href="./index.php">HOME</a>
+                        <a class="nav-link active" href="./homepage.php">HOME</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="./services.html">SERVICES</a>
@@ -75,8 +75,9 @@
       <div class="slider-overlay slider-1-overlay"></div>
       <div class="container">
       <div class="slide-content text-white text-white">
-            <h2 class="h1 text-white">Create Websites Beyond Your Imagination</h2>
-            <p class="hidden-xs">Evolve your web experiences and create stunning, feature-rich websites.</p>
+            <h2 class="h1 text-white">P its Pitness Application</h2>
+            <p class="hidden-xs">
+"Pitness, revolutionizing fitness with a personalized and innovative workout application designed to elevate your physical prowess and well-being."</p>
             <a class=" text-white btn slide-btn" href="https://www.solodev.com/product/create.stml">Contact Now</a>
         </div>
       </div>
@@ -85,8 +86,8 @@
       <div class="slider-overlay slider-2-overlay"></div>
       <div class="container">
       <div class="slide-content text-white">
-            <h2 class="h1 text-white">Enterprise Hosting That's Out of This World</h2>
-            <p class="hidden-xs">Pilot your website on the only platform built for the AWS Cloud</p>
+            <h2 class="h1 text-white">P its Pitness Application</h2>
+            <p class="hidden-xs">"Welcome to Pitness, your ultimate fitness companion, where every workout is a step closer to the best version of you – let's conquer new heights together!"</p>
             <a class="btn slide-btn text-white" href="https://www.solodev.com/product/host.stml">Contact Now</a>
         </div>
       </div>
@@ -95,7 +96,7 @@
       <div class="slider-overlay slider-3-overlay"></div>
       <div class="container">
       <div class="slide-content text-white">
-            <h2 class="h1 text-white">Target and Engage a Universe of Customers</h2>
+            <h2 class="h1 text-white">P its Pitness Application</h2>
             <p class="hidden-xs">Boldy go where no marketer has gone before with a powerful platform that integrates everything</p>
             <a class="btn slide-btn text-white" href="https://www.solodev.com/product/engage.stml">Contact Now</a>
         </div>
@@ -123,27 +124,17 @@
                 <div class="col-sm-6 dj-div-1 " data-aos="fade-up">
                     <div>
                         <div>
-                            <h1 class="font-weight-bold">WELCOME TO <br> CTU FITNESS GYM </h1>
+                            <h1 class="font-weight-bold">WELCOME TO <br> P its Pitness </h1>
                         </div>
                         <div>
-                            <p> <b> CTU FITNESS GYM </b> is a professional fitness training center. We
-                                provide
-                                all kinds
-                                of fitness training and we have all modern instruments.</p>
+                            <p> <b> P its Pitness </b> "Pitness, an all-encompassing app designed to empower and guide you towards achieving your health and wellness goals."</p>
 
                         </div>
                         <div class="dj-div-p">
-                            <p> CTU FITNESST is best gym in Danao , City. CTU FITNESS is a fitness centre that
-                                provides
-                                the community a family orientated, motivational, friendly and professional environment
-                                to
-                                improve health and well being.</p>
+                            <p> 
+Step into a new era of fitness at home with Pitness Home Workout, where we bring the gym experience to your living room, making health and wellness accessible for everyone.</p>
 
-                            <p> Situated conveniently near Looc, Danao. CTU Fitness Gym
-                                offers a world class facility coupled with experienced and fully accredited training
-                                staff.
-                                Dotfit Fitness are focused on providing members all the necessary tools to achieve their
-                                health and fitness goals.</p>
+                            <p> Our app combines expertly designed workouts, personalized plans, and convenience, ensuring that every session becomes a rewarding step towards your fitness goals, creating a healthier and happier version of yourself.</p>
                         </div>
                         <div> <button class="btn "><a href="#"> Know More </a></button></div>
                     </div>
@@ -220,18 +211,10 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 training " data-aos="fade-up">
-                    <h1 class="pp  ">Start Your Training Today</h1>
-                    <p> UB Mltihub is best gym in Karad , Satara. UB multihub is a fitness centre that
-                        provides
-                        the community a family orientated, motivational, friendly and professional environment
-                        to
-                        improve health and well being.</p>
+                    <h1 class="pp  ">P its Pitness Application</h1>
+                    <p>"P-ITS-Pitness" could stand for "Personalized Interactive Training System for Physical Fitness."</p>
 
-                    <p> Situated conveniently near Balewadi Phata. UB Multihub Gym
-                        offers a world class facility coupled with experienced and fully accredited training
-                        staff.
-                        Dotfit Fitness are focused on providing members all the necessary tools to achieve their
-                        health and fitness goals.</p>
+                    <p>This would suggest a fitness system that's personalized or tailored to individuals, interactive to engage users actively, and focused on training and improving physical fitness.</p>
                     <button class="btn "><a href="#"> Start Now</a></button>
 
                 </div>
@@ -273,14 +256,13 @@
                                     <div class="col-md-10 offset-md-1 d-md-flex d-block text-center "
                                         data-aos="fade-up">
                                         <img class="rounded-circle"
-                                            src="https://www.tutorialrepublic.com/examples/images/clients/4.jpg"
+                                            src="img/asd.jpg"
                                             style="width: 100px;height:100px;">
                                         <div class="feedback-text pl-3">
-                                            <p>On the other hand, we denounce with righteous indignation and dislike men
-                                                who are so beguiled and demoralized by the charms of pleasure of the
-                                                moment, so blinded by desire
+                                            <p>"Sukad pag gamit nako ana na app grabe jud kadako sa akong improvement sa akong lawas "
+                            
                                             </p>
-                                            <small>- Pruthviraj Chavan</small>
+                                            <small>- Listen Look and Listen and learn</small>
                                         </div>
                                     </div>
                                 </div>
@@ -293,14 +275,12 @@
                                     <div class="col-md-10 offset-md-1 d-md-flex d-block text-center "
                                         data-aos="fade-up">
                                         <img class="rounded-circle"
-                                            src="https://www.tutorialrepublic.com/examples/images/clients/3.jpg"
+                                            src="img/fpg.jpg"
                                             style="width: 100px;height:100px;">
                                         <div class="feedback-text pl-3">
-                                            <p>On the other hand, we denounce with righteous indignation and dislike men
-                                                who are so beguiled and demoralized by the charms of pleasure of the
-                                                moment, so blinded by desire
+                                            <p>grabe jud ka effective ni na apps kay before ni nako ge gamit nag duha2 gyud ko effective ba pero katong sukad nag download ko ani na apps grabe jud wala pakoy abs sauna pero karon 10 na kabook murag pandesal
                                             </p>
-                                            <small>- Rohan Yadav</small>
+                                            <small>- Esophagus Esophagus</small>
                                         </div>
                                     </div>
                                 </div>
@@ -312,14 +292,12 @@
                                 <div class="row">
                                     <div class="col-md-10 offset-md-1 d-md-flex d-block text-center "
                                         data-aos="fade-up">
-                                        <img class="rounded-circle" src="./img/p-1.jpg"
+                                        <img class="rounded-circle" src="img\awts.png"
                                             style="width: 100px;height:100px;">
                                         <div class="feedback-text pl-3">
-                                            <p>On the other hand, we denounce with righteous indignation and dislike men
-                                                who are so beguiled and demoralized by the charms of pleasure of the
-                                                moment, so blinded by desire
+                                            <p>dako kaykog pasalamat ani na app sukad pag gamit nako ani na apps mas ni physical fit pako og ni healthy
                                             </p>
-                                            <small>- Sushat Kambale</small>
+                                            <small>- Johny Johny Yes Daddy!</small>
                                         </div>
                                     </div>
                                 </div>
@@ -382,8 +360,7 @@
                         <div class="col-xl-4 col-lg-4 mb-50">
                             <div class="footer-widget">
                                 <div class="footer-logo">
-                                    <a href="index.php"><img src="https://i.ibb.co/QDy827D/ak-logo.png"
-                                            class="img-fluid" alt="logo"></a>
+                                 
                                 </div>
                                 <div class="footer-text">
                                     <p>Just Fit - UB MULTIHUB GYM is a professional fitness training center. We provide
@@ -443,8 +420,7 @@
                     <div class="row">
                         <div class="col-xl-6 col-lg-6 text-center text-lg-left">
                             <div class="copyright-text">
-                                <p>Copyright &copy; 2021, All Right Reserved | Design by <a href="#">Hari Om
-                                        Technologies, Karad</a></p>
+                                <p>Copyright &copy; 2024, All Right Reserved </p>
                             </div>
                         </div>
                         <div class="col-xl-6 col-lg-6 d-none d-lg-block text-right">

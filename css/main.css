@@ -12,3 +12,29 @@ body {
 .form-wrap .form-label {
   font-weight: 600;
 }
+
+/* styles.css */
+
+body {
+  background-image: url('bg.jpg'); /* Replace 'path/to/your/background-image.jpg' with the actual path to your background image */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  background-color: rgba(255, 255, 255, 0.8); /* Adjust the alpha value to control the background overlay opacity */
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.form-wrap {
+  max-width: 400px;
+  width: 100%;
+}

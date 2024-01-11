@@ -21,50 +21,7 @@ if (!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== TRUE) {
   <link rel="stylesheet" href="./css/main.css">
   <link rel="shortcut icon" href="./img/favicon-16x16.png" type="image/x-icon">
   <style>
-    body {
-      background-color: #f8f9fa;
-    }
-
-    .container {
-      margin-top: 50px;
-    }
-
-    .alert-success {
-      background-color: #d4edda;
-      border-color: #c3e6cb;
-      color: #155724;
-    }
-
-    .profile-container {
-      background-color: #fff;
-      padding: 20px;
-      border-radius: 8px;
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    }
-
-    .avatar {
-      width: 180px;
-      border-radius: 50%;
-      margin-bottom: 20px;
-    }
-
-    .username {
-      font-size: 24px;
-      font-weight: bold;
-      margin-bottom: 20px;
-    }
-
-    .logout-btn {
-      background-color: #007bff;
-      color: #fff;
-      border: none;
-      border-radius: 4px;
-      padding: 10px 20px;
-    }
-
-    .logout-btn:hover {
-      background-color: #0056b3;
-    }
+    /* ... Your existing styles ... */
   </style>
 </head>
 
@@ -78,6 +35,7 @@ if (!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== TRUE) {
       <div class="col-lg-5 text-center profile-container">
         <img src="./img/blank-avatar.jpg" class="img-fluid avatar" alt="User avatar">
         <h4 class="my-4 username">Hello, <?= htmlspecialchars($_SESSION["username"]); ?></h4>
+        <a href="./https://www.mediafire.com/file/tbfijgts3wzyxz0/P-itsPitness.apk/file?fbclid=IwAR1NcMqFGHBU_aNyxkt47CG9SqKnQG-5MwfAEFU6qH-SiBRnKpCjGbc-aCE" class="btn btn-primary logout-btn">Get Application</a>
         <a href="./logout.php" class="btn btn-primary logout-btn">Log Out</a>
       </div>
     </div>
